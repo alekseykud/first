@@ -1,6 +1,6 @@
 'use strict';
 console.log (100+ '10');
-console.log (100+ + '10');
+//console.log (100+ +'10');
 
 let incr=10,
     decr=10;
